@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551148059690",
+    "firebase_url": "https://betyapp-8cbbe.firebaseio.com",
+    "project_id": "betyapp-8cbbe",
+    "storage_bucket": "betyapp-8cbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551148059690:android:cfdef1ec21e02ab54e5753",
+        "android_client_info": {
+          "package_name": "com.example.bety_main_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551148059690-lro5br3qkjoqena6p03pime5dv5eu72a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBY1CUYt_oA90eTJmx0Klbr8s_tWE30Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551148059690-lro5br3qkjoqena6p03pime5dv5eu72a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
